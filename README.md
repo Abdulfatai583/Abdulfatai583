@@ -1,59 +1,77 @@
 ## Hi there, I'm Abdulfatai 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Transforming+raw+data+into+clear+meaningful+insights+that+drive+smarter+decisions;Power+B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/aliu-abdul-fatai-17366839a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:aliuabdulfatai5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Abdulfatai583"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
 </p>
 
-## 🚀 About Me 
-I’m Aliu AbdulFatai, a Data Analyst who enjoys transforming raw datasets into meaningful insights. I work with Power BI, Excel, and SQL to clean data, uncover patterns, and build dashboards that help people make better decisions.
+---
 
-When I'm not working with data, I enjoy watching football, reading, listening to music, exploring tech and data-related tutorials, and traveling to new places.. I love the "aha!" moment when data reveals something new and useful.
+## 🚀 About Me
+I’m **Aliu Abdulfatai**, a Data Analyst passionate about transforming raw datasets into actionable insights that drive smarter business decisions. I specialize in **Power BI, SQL, Excel, and Python** to clean, analyze, and visualize data effectively.  
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I enjoy uncovering patterns, building dashboards, and presenting insights that help teams make informed decisions. Outside of data, I enjoy football, tech tutorials, and exploring new places.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+---
 
-## 🌱 Currently Learning 
+### 💼 Professional Experience
+**Data Analyst Intern** – Edge Line Tech Academy *(6 months)*  
+- Cleaned, analyzed, and visualized datasets to generate actionable insights for business teams.  
+- Built **Power BI dashboards** tracking key performance indicators (KPIs) and trends.  
+- Wrote **SQL queries** to extract and manipulate data from multiple sources.  
+- Automated repetitive tasks using **Excel and Python**, improving team efficiency.  
+- Presented findings to management, supporting data-driven decision-making.  
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
 
-## 🛠️ Technical Skillset
+### 🌱 Currently Learning
+I am continually seeking to **improve my skills in data analysis, visualization, and analytics tools** to grow as a professional Data Analyst.  
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+---
 
-#### Data Analysis & Visualization
+### 🛠️ Technical Skillset
+
+#### **Core Data Analytics Tools**
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Python Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Query-Intermediate-FF9900?style=flat" alt="Power Query Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### **Analytics Skills**
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Expert-FF6B6B?style=flat" alt="Data Visualization Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Badge">
+</p>
+
+---
+
+### 🏆 Portfolio
+Check out my [Data Analysis Projects](https://github.com/Abdulfatai583/Abdulfatai583) including dashboards, SQL analysis, Python automation scripts, and Power BI reports.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulfatai583&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulfatai583&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulfatai583&theme=default" alt="GitHub Streak" />
+</p>
+
 </p>
