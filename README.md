@@ -55,8 +55,43 @@ I am continually seeking to **improve my skills in data analysis, visualization,
 
 ---
 
-### 🏆 Portfolio
-Check out my [Data Analysis Projects](https://github.com/Abdulfatai583/Abdulfatai583) including dashboards, SQL analysis, Python automation scripts, and Power BI reports.
+### 🏆 Portfolio Projects
+
+#### **1. Sales Dashboard (Power BI)**
+- **Description:** Interactive dashboard tracking sales performance and KPIs across regions.  
+- **Tools:** Power BI, Excel  
+- **Preview:**  
+  <p align="center">
+    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/04-powerbi-projects/project-01/screenshot.png" alt="Sales Dashboard" width="600"/>
+  </p>
+- **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/04-powerbi-projects/project-01)  
+
+#### **2. Customer Segmentation Analysis (SQL & Python)**
+- **Description:** Analyzed customer data to identify segments for targeted marketing campaigns.  
+- **Tools:** SQL, Python, Excel  
+- **Preview:**  
+  <p align="center">
+    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/02-sql-projects/project-01/screenshot.png" alt="Customer Segmentation" width="600"/>
+  </p>
+- **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/02-sql-projects/project-01)  
+
+#### **3. Sales Forecasting Model (Python)**
+- **Description:** Built a predictive model to forecast monthly sales using historical data.  
+- **Tools:** Python, Pandas, Scikit-learn  
+- **Preview:**  
+  <p align="center">
+    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/03-python-projects/project-01/screenshot.png" alt="Sales Forecasting" width="600"/>
+  </p>
+- **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/03-python-projects/project-01)  
+
+#### **4. Excel Dashboard & Reporting**
+- **Description:** Developed dynamic Excel dashboards to monitor KPIs and trends.  
+- **Tools:** Excel, Power Query  
+- **Preview:**  
+  <p align="center">
+    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/01-excel-projects/project-01/screenshot.png" alt="Excel Dashboard" width="600"/>
+  </p>
+- **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/01-excel-projects/project-01)  
 
 ---
 
@@ -72,6 +107,4 @@ Check out my [Data Analysis Projects](https://github.com/Abdulfatai583/Abdulfata
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulfatai583&theme=default" alt="GitHub Streak" />
-</p>
-
 </p>
