@@ -62,7 +62,7 @@ I am continually seeking to **improve my skills in data analysis, visualization,
 - **Tools:** Power BI, Excel  
 - **Preview:**  
   <p align="center">
-    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/04-powerbi-projects/project-01/screenshot.png" alt="Sales Dashboard" width="600"/>
+    <img src="https://github.com/Abdulfatai583/Abdulfatai583/raw/main/04-powerbi-projects/project-01/"C:\Users\USER\Pictures\Screenshots\Screenshot 2025-10-20 101705.png"" alt="Sales Dashboard" width="600"/>
   </p>
 - **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/04-powerbi-projects/project-01)  
 
