@@ -30,39 +30,3 @@ Description: Track KPIs and sales trends interactively.
 
 Tools: Power BI, Excel
 
-Preview:
-
-<p align="center"> <img src="https://via.placeholder.com/600x300?text=Sales+Dashboard" alt="Sales Dashboard" width="600"/> </p> - **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/04-powerbi-projects/project-01)
-Customer Segmentation (SQL & Python)
-
-Description: Identify customer groups for targeted campaigns.
-
-Tools: SQL, Python, Excel
-
-Preview:
-
-<p align="center"> <img src="https://via.placeholder.com/600x300?text=Customer+Segmentation" alt="Customer Segmentation" width="600"/> </p> - **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/02-sql-projects/project-01)
-Sales Forecasting (Python)
-
-Description: Predict monthly sales trends using historical data.
-
-Tools: Python, Pandas, Scikit-learn
-
-Preview:
-
-<p align="center"> <img src="https://via.placeholder.com/600x300?text=Sales+Forecasting" alt="Sales Forecasting" width="600"/> </p> - **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/03-python-projects/project-01)
-Excel KPI Dashboard
-
-Description: Monitor KPIs and automate reporting.
-
-Tools: Excel, Power Query
-
-Preview:
-
-<p align="center"> <img src="https://via.placeholder.com/600x300?text=Excel+Dashboard" alt="Excel Dashboard" width="600"/> </p> - **Link:** [View Project](https://github.com/Abdulfatai583/Abdulfatai583/tree/main/01-excel-projects/project-01)
-Certifications
-
-Data Analytics – Edge Line Tech Academy
-
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulfatai583&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulfatai583&layout=compact&theme=default" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulfatai583&theme=default" alt="GitHub St
