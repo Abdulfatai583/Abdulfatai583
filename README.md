@@ -51,7 +51,7 @@ Evaluated call center operations to find efficiency gaps and improve agent perfo
 ---
 
 ### 🌍 International FMCG Sales & Profitability Analysis
-#Used SQL to assess regional sales, cost trends, and profitability for strategic planning.  
+# Used SQL to assess regional sales, cost trends, and profitability for strategic planning.  
 **Tools:** SQL  
 
 ---
