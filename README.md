@@ -43,21 +43,16 @@ I focus on building clear dashboards, KPIs, and reports that stakeholders can un
 ### 🫀 Heart Attack Risk & Prevention Insights Dashboard
 Analyzed patient health data to identify heart attack risk factors and support preventive decision-making.  
 **Tools:** Power BI  
-🔗 [View Documentation](doc/heart-attack-dashboard-doc.html) | 🔗 [View Repository](https://github.com/Abdulfatai583/heart-attack-risk-analysis)
-
 ---
 
 ### 📞 Call Center Performance & Operations Insights Dashboard
 Evaluated call center operations to find efficiency gaps and improve agent performance.  
 **Tools:** Power BI, DAX  
-🔗 [View Documentation](doc/call-center-doc.html) | 🔗 [View Repository](https://github.com/Abdulfatai583/call-center-performance-dashboard)
-
 ---
 
 ### 🌍 International FMCG Sales & Profitability Analysis
 Used SQL to assess regional sales, cost trends, and profitability for strategic planning.  
 **Tools:** SQL  
-🔗 [View Documentation](doc/international-fmcg-doc.html) | 🔗 [View Repository](https://github.com/Abdulfatai583/fcmb-sales-performance-analysis)
 
 ---
 
