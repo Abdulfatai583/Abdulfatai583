@@ -1,32 +1,79 @@
 ## Aliu Abdulfatai 👋
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Turning+Data+into+Insights;Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" /> </div> <p align="center"> <a href="https://linkedin.com/in/aliu-abdul-fatai-17366839a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:aliuabdulfatai5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/Abdulfatai583"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a> </p>
-Professional Summary
 
-Data Analyst with hands-on experience in cleaning, transforming, and visualizing data to deliver actionable insights. Skilled in Power BI, SQL, Excel, and Python, with expertise in statistical analysis, KPI development, predictive modeling, and dashboard creation.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Turning+Data+into+Insights;Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
+</div>
 
-Technical Skills
-Core Analytics Tools
-<p> <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Power%20Query-Intermediate-FF9900?style=flat" alt="Power Query"> </p>
-Analytics Skills
-<p> <img src="https://img.shields.io/badge/Data%20Visualization-Expert-FF6B6B?style=flat" alt="Data Visualization"> <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis"> <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling"> <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development"> </p>
-Professional Experience
+<p align="center">
+  <a href="https://linkedin.com/in/aliu-abdul-fatai-17366839a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:aliuabdulfatai5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Abdulfatai583">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-Data Analyst Intern – Edge Line Tech Academy | 6 months
+---
 
-Cleaned, analyzed, and visualized datasets to produce actionable insights.
+## 👋 About Me
 
-Built Power BI dashboards monitoring KPIs and trends, improving reporting efficiency by 30%.
+I am a Data Analyst with a strong foundation in computer science and hands-on experience turning raw data into clear, actionable insights. I enjoy working with real-world datasets to uncover patterns, answer business questions, and support better decision-making.
 
-Wrote SQL queries to extract and manipulate multi-source data.
+I have experience using Power BI, SQL, Excel, and Python to clean, analyze, and visualize data across different domains, including healthcare, FMCG, and operational performance. My focus is on building clear dashboards, meaningful KPIs, and analyses that stakeholders can easily understand and act on.
 
-Automated repetitive tasks using Excel and Python, reducing manual effort.
+---
 
-Presented findings to management supporting data-driven decisions.
+## 🛠 Technical Skills
 
-Portfolio Projects
-Sales Dashboard (Power BI)
+**Analytics & BI:** Power BI, DAX, Power Query  
+**Data Analysis:** SQL, Excel, Python  
+**Core Skills:** Data Cleaning, Data Visualization, KPI Development, Dashboard Design, Statistical Analysis
 
-Description: Track KPIs and sales trends interactively.
+---
 
-Tools: Power BI, Excel
+## 💼 Experience
 
+**Data Analyst Intern – Edge Line Tech Academy**  
+*6 months*
+
+- Cleaned, analyzed, and visualized datasets to generate actionable insights.
+- Built interactive Power BI dashboards to monitor KPIs and trends, improving reporting efficiency by 30%.
+- Wrote SQL queries to extract and transform data from multiple sources.
+- Automated repetitive reporting tasks using Excel and Python.
+- Presented insights to stakeholders to support data-driven decision-making.
+
+---
+
+## 📊 Portfolio Projects
+
+### 🫀 Heart Attack Risk & Prevention Insights Dashboard
+Analyzed patient health data to identify key heart attack risk factors and support preventive healthcare decision-making through interactive visuals.
+
+**Tools:** Power BI  
+🔗 [View Documentation](doc/heart-attack-dashboard-doc.html)  
+🔗 [View Repository](https://github.com/Abdulfatai583/heart-attack-risk-analysis)
+
+---
+
+### 📞 Call Center Performance & Operations Insights Dashboard
+Explored call center operational data to evaluate agent performance, call efficiency, and service quality, highlighting performance gaps and improvement opportunities.
+
+**Tools:** Power BI, DAX  
+🔗 [View Documentation](doc/call-center-doc.html)  
+🔗 [View Repository](https://github.com/Abdulfatai583/call-center-performance-dashboard)
+
+---
+
+### 🌍 International FMCG Sales & Profitability Analysis
+Used SQL to analyze international FMCG sales data, comparing regional performance, cost trends, and overall profitability across multiple markets.
+
+**Tools:** SQL  
+🔗 [View Documentation](doc/international-fmcg-doc.html)  
+🔗 [View Repository](https://github.com/Abdulfatai583/fcmb-sales-performance-analysis)
+
+---
+
+⭐ *I am actively seeking remote or international junior Data Analyst opportunities where I can apply data-driven insights to create real business impact.*
