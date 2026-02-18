@@ -28,7 +28,7 @@ I focus on building clear dashboards, KPIs, and reports that stakeholders can un
 
 ## 💼 Experience
 
-**Data Analyst Intern – Edge Line Tech Academy** *(6 months)*
+**Data Analyst Intern – Edge Line Tech Academy** *(1 Year)*
 
 - ✅ Cleaned, analyzed, and visualized datasets to generate actionable insights  
 - ✅ Built interactive Power BI dashboards monitoring KPIs and trends, improving reporting efficiency by 30%  
