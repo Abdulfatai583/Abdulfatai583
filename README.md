@@ -38,21 +38,31 @@ I focus on building clear dashboards, KPIs, and reports that stakeholders can un
 
 ---
 
-## 📊 Portfolio Projects
-
 ### 🫀 Heart Attack Risk & Prevention Insights Dashboard
-Analyzed patient health data to identify heart attack risk factors and support preventive decision-making.  
-**Tools:** Power BI  
+
+Transformed patient health data into an interactive risk assessment dashboard, uncovering key cardiovascular risk factors, high-risk patient segments, and preventive intervention opportunities to support data-driven healthcare decisions.
+**Tools:** Power BI
+
 ---
 
 ### 📞 Call Center Performance & Operations Insights Dashboard
-Evaluated call center operations to find efficiency gaps and improve agent performance.  
-**Tools:** Power BI, DAX  
+
+Built a performance analytics dashboard to evaluate agent productivity, call resolution efficiency, service levels, and customer experience metrics, enabling leadership to identify bottlenecks and optimize operational performance.
+**Tools:** Power BI, DAX
+
 ---
 
 ### 🌍 International FMCG Sales & Profitability Analysis
-## Used SQL to assess regional sales, cost trends, and profitability for strategic planning.  
-## **Tools:** SQL  
+
+Leveraged SQL to analyze multi-regional sales, cost structures, and profit margins, identifying top-performing markets, underperforming regions, and strategic opportunities for revenue growth and cost optimization.
+**Tools:** SQL
+
+---
+
+### 📊 Business Performance & Strategic Growth Insights Dashboard
+
+Designed a comprehensive executive dashboard to track revenue, profit, marketing ROI, customer segments, and operational efficiency, uncovering growth drivers, productivity gaps, and retention opportunities to support data-driven strategic decisions.
+**Tools:** Power BI, DAX
 
 ---
 
